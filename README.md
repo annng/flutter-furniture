@@ -1,6 +1,6 @@
 # Chair / Furniture App
 
-Learn slicing
+Learn slicing 2 page of furniture apps
 
 ## Getting Started
 
